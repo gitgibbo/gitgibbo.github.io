@@ -5,6 +5,10 @@
 }
 h1 {
     text-align: center;
+    border-bottom: solid black 1px;
+    padding: 20px;
+    width: 60%;
+    margin: 0 auto;
 }
 
 main {
